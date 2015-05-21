@@ -1,0 +1,5 @@
+#	Usage: java
+#		-Dportland.input=[./leads.json]
+#		-Dportland.output=[./leads.output.json]
+#		-Djava.util.logging.config.file=[./logging.properties]
+#		-jar portland-0.0.2.jar
